@@ -1,5 +1,11 @@
 # Roadmap-Upskilling-and-Getting-Job-Ready
 
+## Team Members:
+
+* Rohit Akole
+* Yamini Bolloju
+* Arun Chowdary Bezawada
+
 ## Key Milestones and Deliverables:
 
 ### Upskilling Skill 1
